@@ -1,2 +1,2 @@
-D:/hub/project_20260919/Core/Src/system_stm32f4xx.c:167:6:SystemInit	4	static
-D:/hub/project_20260919/Core/Src/system_stm32f4xx.c:220:6:SystemCoreClockUpdate	32	static
+D:/hub/STM_project/f407_homework_zhe373/project_20260919/Core/Src/system_stm32f4xx.c:167:6:SystemInit	4	static
+D:/hub/STM_project/f407_homework_zhe373/project_20260919/Core/Src/system_stm32f4xx.c:220:6:SystemCoreClockUpdate	32	static
